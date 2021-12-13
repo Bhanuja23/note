@@ -1,2 +1,3 @@
 death note 0.1 
 be the one to choose who wins the game of psychology......
+check sketch.js I have added comments
